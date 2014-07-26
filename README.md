@@ -1,4 +1,4 @@
 MapExtensions
 =============
 
-Data mapper methods implemented as .NET Extension Methods 
+Data mapper methods implemented as .NET extension methods 
